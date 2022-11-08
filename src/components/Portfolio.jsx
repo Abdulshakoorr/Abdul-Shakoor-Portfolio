@@ -5,35 +5,35 @@ const Portfolio = () => {
   const portfolios = [
     {
       id:1,
-      img: "/proimages/portfolio-img/food react - Copy.png",
+      img: "proimages/portfolio-img/food react - Copy.png",
       heading:'Food website',
       p:'Click To Visit',
       link:'https://foodbunny.netlify.app'
     },
     {
       id:2,
-      img: "/proimages/portfolio-img/car.png",
+      img: "proimages/portfolio-img/car.png",
       heading:'Car rent website',
       p:'Click To Visit',
       link:'https://car-rental-web.netlify.app'
     },
     {
       id:3,
-      img: "/proimages/portfolio-img/ecomerce2222.png",
+      img: "proimages/portfolio-img/ecomerce2222.png",
       heading:'E-commerce website',
       p:'Click To Visit',
       link:'https://e-shop-com.netlify.app'
     },
     {
       id:4,
-      img: "/proimages/portfolio-img/ecomed.png",
+      img: "proimages/portfolio-img/ecomed.png",
       heading:'E-commerce Design',
       p:'Click To Visit',
       link:'https://www.figma.com/proto/VEHFPCc5mQ5ylWWBrHfhGc/Untitled?page-id=0%3A1&node-id=1%3A2&viewport=173%2C196%2C0.13&scaling=scale-down-width&starting-point-node-id=1%3A2'
     },
     {
       id:5,
-      img: "/proimages/portfolio-img/Desb.png",
+      img: "proimages/portfolio-img/Desb.png",
       heading:'Admin Dashboard',
       p:'Click To Visit',
       link:'https://www.figma.com/proto/tPsqRWAViKmREUUvulXdXW/Dashborad-design?page-id=0%3A1&node-id=1%3A2'

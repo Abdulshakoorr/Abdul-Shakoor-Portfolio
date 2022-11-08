@@ -5,7 +5,7 @@ const Nav = () => {
   return (
     <nav className='w-full flex items-center mx-auto  sm:px-2 justify-between h-16 fixed shadow bg-[#f6f6f6] z-10 px-8 sm:mx-0'>
         <div className="basis-[15%]">
-            <img src="/proimages/logo.png" alt="Abdul" className='w-[100%] sm:w-[70%] md:w-[60%]' />
+            <img src="proimages/logo.png" alt="Abdul" className='w-[100%] sm:w-[70%] md:w-[60%]' />
         </div>
         <div className="list sm:block hidden">
         <ul className='flex gap-2 font-serif px-4'>

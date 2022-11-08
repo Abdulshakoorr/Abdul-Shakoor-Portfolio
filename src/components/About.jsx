@@ -7,12 +7,12 @@ const About = () => {
       <section className="flex flex-col rounded bg-[#EBDFB7] h-[70%] sm:flex-row items-center py-16">
         <div className="about-img basis-2/4 p-8 shadow-xl relative">
           <img
-            src="/proimages/Group 13.png"
+            src="proimages/Group 13.png"
             alt=""
             className="w-full object-cover"
           />
           <video
-            src="/proimages/pro.mp4"
+            src="proimages/pro.mp4"
             autoPlay
             controls
             className="absolute -bottom-10 w-48 sm:w-72 rounded shadow-sm shadow-yellow-400"
@@ -36,7 +36,7 @@ const About = () => {
             <li>Developer</li>
           </ul>
           <a
-            href="/proimages/Updated CV.pdf"
+            href="proimages/Updated CV.pdf"
             download
             className="block mt-4 px-6 py-2 rounded-sm shadow-md hover:bg-[#ef2e79] hover:text-white bg-[#FFD130] relative"
           >

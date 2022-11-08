@@ -43,15 +43,15 @@ const ImageSlider = () => {
       modules={[Pagination, Navigation]}
       className="mySwiper mt-10"
     >
-      <SwiperSlide className='rounded shadow-lg shadow-amber-300'><img src="../../proimages/skimg/sk01.png" alt="" /></SwiperSlide>
-      <SwiperSlide className='rounded shadow-lg shadow-amber-300'><img src="../../proimages/skimg/sk02.png" alt="" /></SwiperSlide>
-      <SwiperSlide className='rounded shadow-lg shadow-amber-300'><img src="../../proimages/skimg/sk03.png" alt="" /></SwiperSlide>
-      <SwiperSlide className='rounded shadow-lg shadow-amber-300'><img src="../../proimages/skimg/sk04.png" alt="" /></SwiperSlide>
-      <SwiperSlide className='rounded shadow-lg shadow-amber-300'><img src="../../proimages/skimg/sk05.png" alt="" /></SwiperSlide>
-      <SwiperSlide className='rounded shadow-lg shadow-amber-300'><img src="../../proimages/skimg/sk06.png" alt="" /></SwiperSlide>
-      <SwiperSlide className='rounded shadow-lg shadow-amber-300'><img src="../../proimages/skimg/sk07.png" alt="" /></SwiperSlide>
-      <SwiperSlide className='rounded shadow-lg shadow-amber-300'><img src="../../proimages/skimg/sk08.png" alt="" /></SwiperSlide>
-      <SwiperSlide className='rounded shadow-lg shadow-amber-300'><img src="../../proimages/skimg/sk09.png" alt="" /></SwiperSlide>
+      <SwiperSlide className='rounded shadow-lg shadow-amber-300'><img src="proimages/skimg/sk01.png" alt="" /></SwiperSlide>
+      <SwiperSlide className='rounded shadow-lg shadow-amber-300'><img src="proimages/skimg/sk02.png" alt="" /></SwiperSlide>
+      <SwiperSlide className='rounded shadow-lg shadow-amber-300'><img src="proimages/skimg/sk03.png" alt="" /></SwiperSlide>
+      <SwiperSlide className='rounded shadow-lg shadow-amber-300'><img src="proimages/skimg/sk04.png" alt="" /></SwiperSlide>
+      <SwiperSlide className='rounded shadow-lg shadow-amber-300'><img src="proimages/skimg/sk05.png" alt="" /></SwiperSlide>
+      <SwiperSlide className='rounded shadow-lg shadow-amber-300'><img src="proimages/skimg/sk06.png" alt="" /></SwiperSlide>
+      <SwiperSlide className='rounded shadow-lg shadow-amber-300'><img src="proimages/skimg/sk07.png" alt="" /></SwiperSlide>
+      <SwiperSlide className='rounded shadow-lg shadow-amber-300'><img src="proimages/skimg/sk08.png" alt="" /></SwiperSlide>
+      <SwiperSlide className='rounded shadow-lg shadow-amber-300'><img src="proimages/skimg/sk09.png" alt="" /></SwiperSlide>
     </Swiper>
   </div>
   )

@@ -20,7 +20,7 @@ const Herosec = () => {
       </div>
       <div className="hero-img basis-2/4">
         <img
-          src="/proimages/hero-img.png"
+          src="proimages/hero-img.png"
           alt=""
           className="w-full object-cover"
         />
